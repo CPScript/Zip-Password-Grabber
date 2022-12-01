@@ -2,7 +2,7 @@
 
 <samp>
 
-# zip-pw-finder
+# zip-Password-Grabber
 
 **A password finder for protected ZIP files using a brute force strategy**
 
